@@ -1,0 +1,54 @@
+header{
+    
+    color: blueviolet;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+body {
+    background-image: url(loveiz2.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-color: rgb(248, 248, 248);
+    background-size: 30em 40em;
+}    
+ .feature-love{font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:black;
+    border: 5px solid rgb(216, 22, 158);
+    margin-right: 30em;
+    margin-left: 3em;
+    margin-top: 5px;
+    border-radius: 20%;
+    text-align: center;
+}
+ .linkins{
+     border:1px solid #158;
+     border-radius:50%;
+     color:rgb(213, 6, 240)
+     
+ }
+ a{
+    text-decoration: none;    
+ }
+ .skill-list {
+     color:#f9f;
+     border-color: #8a5
+}
+ .skill-item {
+     margin-bottom: 5px;
+     border-color: grey;
+}
+footer{
+    text-align: right;
+}
+.aboutlove1{
+    text-align: right;
+    font-size: 24pt;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(217, 255, 4);
+    text-shadow:-1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+    margin-right: 5em;
+    transform: rotate(-10deg);
+}
+
